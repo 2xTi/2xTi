@@ -21,3 +21,7 @@
   
   [![Linkedin: Tiago Almeida](https://img.shields.io/badge/-Tiago%20Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagoreisalmeida/)](https://www.linkedin.com/in/tiagoreisalmeida/)
   [![Gmail Badge](https://img.shields.io/badge/-treisalmeida@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:treisalmeida@gmail.com)
+  <div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=2xTi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="2xTi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2xTi&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
