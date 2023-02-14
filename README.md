@@ -1,16 +1,18 @@
-- 👋 Oi, meu nome é Tiago
-- 👀 Explorando novas tecnologias.
-- 🌱 Aprendendo mais sobre Programação para Dispositivos Móveis e Sistemas Operacionais.
-- 🎓 Estudando Sistemas de Informação na <a href="https://ufu.br/">UFU(Universidade Federal de Uberlândia)</a>.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=00FFFF&amp;height=120&amp;section=header" style="max-width: 100%;">
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=2xTi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="2xTi github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2xTi&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+My+name+is+Tiago+Reis+Almeida;I'm+19+years+old;I'm+from+Brazil;Graduating+in+Information+Systems+at;Universidade+Federal+de+Uberlândia;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=2xTi&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Tiago github stats" /> <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2xTi&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=0d1117" />
 </div>
 
-<h3> 🚀 &nbsp;Minhas Skills </h3>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=2xti&bg_color=000000&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-**Aplicações e Dados**
+- 👋 Hi there i'm Tiago.
+- 👀 Exploring new technologies.
+- 🌱 Learning more about Programming for Mobile Devices and Operational Systems.
+- 🎓 Graduating in information systems at the <a href="https://ufu.br/">(Universidade Federal de Uberlândia)</a>.
+
+<h3> 🚀 &nbsp;My Skills </h3>
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,7 +23,7 @@
   ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   
-  <h3> 🌎 &nbsp;Onde me encontrar: </h3> 
+  <h3> 🌎 &nbsp;Where to find me </h3> 
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoreisalmeida/)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:treisalmeida@gmail.com)
