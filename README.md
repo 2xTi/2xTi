@@ -1,5 +1,5 @@
 - 👋 Oi, meu nome é Tiago
-- 👀 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 👀 Explorando novas tecnologias.
 - 🌱 Aprendendo mais sobre Programação para Dispositivos Móveis e Sistemas Operacionais.
 - 🎓 Estudando Sistemas de Informação na <a href="https://ufu.br/">UFU(Universidade Federal de Uberlândia)</a>.
 
