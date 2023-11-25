@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+My+name+is+Tiago+Reis+Almeida;I'm+19+years+old;I'm+from+Brazil;Graduating+in+Information+Systems+at;Universidade+Federal+de+Uberlândia;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=2xti&bg_color=000000&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 - 👋 Hi there i'm Tiago.
 - 👀 Exploring new technologies.
 - 🌱 Learning more about Programming for Mobile Devices and Operational Systems.
